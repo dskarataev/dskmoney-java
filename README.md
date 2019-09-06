@@ -1,4 +1,4 @@
-# dskmoney-spring
+# dskmoney
 
 Simple but powerful application for personal accounting. Totally open source.
 
